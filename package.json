@@ -23,9 +23,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codesbiome/electron-react-webpack-typescript-2022"
+    "url": "https://github.com/Ward727a/pip_plus"
   },
-  "license": "MIT",
+  "license": "MIT license",
   "config": {
     "forge": "./tools/forge/forge.config.js"
   },
