@@ -18,15 +18,9 @@
     "webpack"
   ],
   "author": {
-    "name": "codesbiome",
-    "url": "https://github.com/codesbiome"
+    "name": "Ward",
+    "url": "https://github.com/ward727a"
   },
-  "contributors": [
-    {
-      "name": "guasam",
-      "url": "https://github.com/guasam"
-    }
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/codesbiome/electron-react-webpack-typescript-2022"
